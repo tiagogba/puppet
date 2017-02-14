@@ -1,0 +1,12 @@
+# exemplos
+# import "ssh"
+# import "users"
+# import "locales"
+# import "vim"
+# import "postfix"
+# import "puppet"
+# import "ntp"
+# import "yum"
+# import "zabbix-agent"
+# import "expressolivre"
+# import "snmp"
